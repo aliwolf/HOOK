@@ -22,5 +22,5 @@ return {patterns = {
         '^(delall)$',
         '^(تنظيف الكل)$',
     },
-    run = th3boss}
---By @TH3BOSS
+    run = HOOK}
+--By @G0vip
