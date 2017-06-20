@@ -43,5 +43,5 @@ end
 
 return { patterns = 
 	{ "^(معلوماتي)$" }, 
-	run = th3boss
+	run = HOOK
 	}
